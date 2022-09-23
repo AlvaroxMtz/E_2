@@ -90,7 +90,7 @@ main {
     display: flex;
     flex-direction: column;
     gap: 25px;
-    width: 100%;
+    width: 170%;
 }
 
 .hero-info h1 {
@@ -114,7 +114,7 @@ main {
 .hero-info a {
     color: white;
     background-color: rebeccapurple;
-    width: 120px;
+    width: 150px;
     padding: 8px 0px;
     border-radius: 10px;
     font-size: 14px;
@@ -183,4 +183,13 @@ main {
 
 .hero-card-price span {
     font-weight: 700;
+}
+
+.nosotros p{
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    padding: 70px 0;
+    margin: 10%;
 }
